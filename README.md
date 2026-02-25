@@ -4,10 +4,10 @@ A production-ready full-stack Human Resource Management System developed using R
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 | Layer    | URL |
 |----------|-----|
-| Frontend | https://hrms-portal-blue.vercel.app |
+| Frontend | https://hrms-lite-portal-sandeep-kumar.vercel.app/ |
 | Backend  | https://hrms-lite-portal-sandeep-kumar.onrender.com |
 | API Docs | https://hrms-lite-portal-sandeep-kumar.onrender.com/docs |
 
@@ -174,7 +174,7 @@ npm run dev
 
 ---
 
-## ⚠️ Assumptions & Limitations
+## Assumptions & Limitations
 
 - PostgreSQL 17 is required. Create a database named `hrms` before starting the backend.
 - SQLite is **no longer used**; the app requires a live PostgreSQL connection.
