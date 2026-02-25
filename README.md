@@ -8,8 +8,8 @@ A production-ready full-stack Human Resource Management System developed using R
 | Layer    | URL |
 |----------|-----|
 | Frontend | https://hrms-portal-blue.vercel.app |
-| Backend  | https://hrms-portal-6oro.onrender.com |
-| API Docs | https://hrms-portal-6oro.onrender.com/docs |
+| Backend  | https://hrms-lite-portal-sandeep-kumar.onrender.com |
+| API Docs | https://hrms-lite-portal-sandeep-kumar.onrender.com/docs |
 
 ---
 
